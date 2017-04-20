@@ -6,6 +6,8 @@
 //  Copyright © 2017年 矢吹祐真. All rights reserved.
 //
 
+//長谷川が見たよ
+
 import UIKit
 
 @UIApplicationMain
